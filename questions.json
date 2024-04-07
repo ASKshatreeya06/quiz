@@ -1,0 +1,88 @@
+[
+  {
+    "id": 1,
+    "question": "What is Node.js?",
+    "options": [
+      "A JavaScript library",
+      "A web server",
+      "A JavaScript runtime environment"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is used to manage packages in a Node.js project?",
+    "options": ["npm", "webpack", "babel"],
+    "answer": 0
+  },
+  {
+    "id": 3,
+    "question": "What command is used to create a new Node.js project?",
+    "options": ["npm new", "npm start", "npm init"],
+    "answer": 2
+  },
+  {
+    "id": 4,
+    "question": "What is the purpose of the 'fs' module in Node.js?",
+    "options": [
+      "To handle HTTP requests",
+      "To interact with the file system",
+      "To create web servers"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 5,
+    "question": "What does 'npm' stand for?",
+    "options": [
+      "Node Package Manager",
+      "Node Project Manager",
+      "Node Package Module"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 6,
+    "question": "Which Node.js method is used to handle asynchronous operations?",
+    "options": ["then()", "catch()", "callback functions"],
+    "answer": 2
+  },
+  {
+    "id": 7,
+    "question": "What is the event loop in Node.js?",
+    "options": [
+      "A loop that runs only once",
+      "A loop that handles asynchronous operations",
+      "A loop that runs synchronously"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 8,
+    "question": "Which HTTP method is used to request data from a server in Node.js?",
+    "options": ["GET", "POST", "PUT"],
+    "answer": 0
+  },
+  {
+    "id": 9,
+    "question": "What is the purpose of the 'path' module in Node.js?",
+    "options": [
+      "To create paths for HTML files",
+      "To handle file paths in a platform-independent way",
+      "To parse JSON data"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 10,
+    "question": "What is the role of 'module.exports' in Node.js?",
+    "options": [
+      "To import modules from other files",
+      "To export functions and data from a module",
+      "To initialize the Node.js environment"
+    ],
+    "answer": 1
+  }
+]
+
+  
